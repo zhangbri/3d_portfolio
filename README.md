@@ -18,34 +18,38 @@ Welcome to my 3D Portfolio Website! This project showcases my journey and skills
 ## Quick Start 🛠️
 Clone and run the project with these steps:
 
-1. **Clone the Repository:**
+**Clone the Repository**
+```
 git clone https://github.com/zhangbri/3d_portfolio.git
+```
 
-2. **Navigate to the Project Directory:**
+**Navigate to the Project Directory**
+```
 cd 3d_portfolio
+```
 
-3. **Install Dependencies:**
+**Install Dependencies**
+```
 npm install
+```
 
-
-### Set Up Environment Variables
+**Set Up Environment Variables**
 Create a `.env` file in the root directory:
-
+```
 REACT_APP_EMAILJS_USERID=your_emailjs_user_id
-
 REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
-
 REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
-
+```
 Replace the placeholder values with your actual [EmailJS credentials](https://www.emailjs.com).
 
-### Running the Project
+**Running the Project**
+```
 npm run dev
-
-This will start the website locally on `http://localhost:5173`.
+```
+Open `http://localhost:5173` in your browser to view the project.
 
 ## Live Demo 🔗
-Experience the live version at [zhangbri.com](https://zhangbri.com).
+Experience the live version: [zhangbri.com](https://zhangbri.com).
 
 ## Screenshots 📸
 <Insert project screenshots here>
