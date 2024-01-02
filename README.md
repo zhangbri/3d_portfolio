@@ -50,7 +50,19 @@ Open `http://localhost:5173` in your browser to view the project.
 Experience the live version: [zhangbri.com](https://zhangbri.com).
 
 ## Screenshots 📸
-<Insert project screenshots here>
+<p align="center">
+  <!-- First row with one image -->
+  <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/312f9c50-64db-4b51-b491-8283d60b4dd3" alt="computer" width=100%>
+</p>
+<p align="center">
+  <!-- Second row with one image -->
+  <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/938ba570-7f9f-42c1-8f7d-eddcfa1ad786" alt="balls" width=100%>
+</p>
+<p align="center">
+  <!-- Third row with two images side by side -->
+  <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/229d4a30-325b-4e52-849d-db309bb12997" alt="cards" width=50%>
+  <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/995df414-1799-447c-b74c-9952b19dabfe" alt="Earth" width=49.5%>
+</p>
 
 ## Getting in Touch 📬
 For inquiries or feedback, connect at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or on [LinkedIn](https://www.linkedin.com/in/zhangbri/). Open to new ideas, projects, and collaboration opportunities.
