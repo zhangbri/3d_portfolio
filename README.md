@@ -61,7 +61,7 @@ Experience the live version: [zhangbri.com](https://zhangbri.com).
 <p align="center">
   <!-- Third row with two images side by side -->
   <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/229d4a30-325b-4e52-849d-db309bb12997" alt="cards" width=49.9%>
-  <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/995df414-1799-447c-b74c-9952b19dabfe" alt="Earth" width=49.2%>
+  <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/995df414-1799-447c-b74c-9952b19dabfe" alt="Earth" width=49%>
 </p>
 
 ## Getting in Touch 📬
