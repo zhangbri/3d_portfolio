@@ -58,8 +58,6 @@ cd 3d_portfolio
 3. **Install Dependencies:**
 npm install
 
-mathematica
-Copy code
 
 ### Set Up Environment Variables
 Create a `.env` file in the root directory:
