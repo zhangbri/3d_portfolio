@@ -52,13 +52,9 @@ Clone and run the project with these steps:
 1. **Clone the Repository:**
 git clone https://github.com/zhangbri/3d_portfolio.git
 
-markdown
-Copy code
 2. **Navigate to the Project Directory:**
 cd 3d_portfolio
 
-markdown
-Copy code
 3. **Install Dependencies:**
 npm install
 
