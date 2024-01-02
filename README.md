@@ -16,8 +16,6 @@ Welcome to my 3D Portfolio Website! This project showcases my journey and skills
 - **Node JS:** Utilized in the development environment.
 
 ## Quick Start 🛠️
-Clone and run the project with these steps:
-
 **Clone the Repository**
 ```
 git clone https://github.com/zhangbri/3d_portfolio.git
@@ -32,10 +30,10 @@ cd 3d_portfolio
 ```
 npm install
 ```
-
 **Set Up Environment Variables**
-Create a `.env` file in the root directory:
-```
+
+Create a new file named .env in the root of your project and add the following content:
+```javascript
 REACT_APP_EMAILJS_USERID=your_emailjs_user_id
 REACT_APP_EMAILJS_TEMPLATEID=your_emailjs_template_id
 REACT_APP_EMAILJS_RECEIVERID=your_emailjs_receiver_id
