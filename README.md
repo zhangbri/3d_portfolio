@@ -47,7 +47,7 @@ npm run dev
 Open `http://localhost:5173` in your browser to view the project.
 
 ## Live Demo 🔗
-Experience the live version: [zhangbri.com](https://zhangbri.com).
+Experience the live version: [zhangbri.com](https://zhangbri.com)
 
 ## Screenshots 📸
 <p align="center">
