@@ -1,21 +1,21 @@
-# 🌐 3D Portfolio Website
+# 🌐 3D Portfolio
 
-## Introduction 🌟
-Welcome to my 3D Portfolio Website! This project showcases my journey and skills as an emerging software engineer, specializing in 3D web development. It features technologies like Three.js and React Three Fiber, underlining my passion for creating immersive, interactive web experiences.
+## 🌟 Introduction
+Welcome to my 3D Portfolio! This project showcases my journey and skills as an emerging software engineer, specializing in 3D web development. It features technologies like Three.js and React Three Fiber, emphasizing my passion for creating immersive, interactive web experiences.
 
-## Features 🚀
-- **Immersive 3D Experience:** 🎮 Dive into a unique user interface featuring interactive 3D elements.
-- **Responsive and Interactive UI/UX:** 🎨 Developed using React JS and Tailwind CSS.
-- **Accessible and Inclusive Design:** ♿ Ensuring a seamless experience for all users.
-- **Project Showcase:** 📁 Detailed presentations of my personal projects, highlighting my development journey.
+## 💡 Features
+- **Immersive 3D Experience:** Dive into a unique user interface featuring interactive 3D elements.
+- **Responsive and Interactive UI/UX:** Developed using React JS and Tailwind CSS.
+- **Accessible and Inclusive Design:** Ensuring a seamless experience for all users.
+- **Project Showcase:** Detailed presentations of my personal projects, highlighting my development journey.
 
-## Technologies Used 💻
+## 💻 Technologies
 - **React JS:** For dynamic UI development.
 - **Three.js & React Three Fiber:** For crafting 3D web experiences.
 - **Tailwind CSS:** For responsive and modern UI designs.
 - **Node JS:** Utilized in the development environment.
 
-## Quick Start 🛠️
+## 🛠️ Installation and Setup
 **Clone the Repository**
 ```
 git clone https://github.com/zhangbri/3d_portfolio.git
@@ -44,12 +44,12 @@ Replace the placeholder values with your actual [EmailJS credentials](https://ww
 ```
 npm run dev
 ```
-Open `http://localhost:5173` in your browser to view the project.
+Open `http://localhost:5173` in your browser to view the website.
 
-## Live Demo 🔗
+## 🔗 Live Demo
 Experience the live version: [zhangbri.com](https://zhangbri.com)
 
-## Screenshots 📸
+## 📸 Screenshots
 <p align="center">
   <!-- First row with one image -->
   <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/312f9c50-64db-4b51-b491-8283d60b4dd3" alt="computer" width=100%>
