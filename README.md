@@ -64,5 +64,5 @@ Experience the live version: [zhangbri.com](https://zhangbri.com)
   <img src="https://github.com/zhangbri/3d_portfolio/assets/115335041/995df414-1799-447c-b74c-9952b19dabfe" alt="Earth" width=48.8%>
 </p>
 
-## Getting in Touch 📬
-For inquiries or feedback, connect at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or on [LinkedIn](https://www.linkedin.com/in/zhangbri/). Open to new ideas, projects, and collaboration opportunities.
+## 📬 Contact
+For inquiries or feedback, please reach out via email at [zhangbri@umich.edu](mailto:zhangbri@umich.edu) or connect with me on [LinkedIn](https://www.linkedin.com/in/zhangbri/).
